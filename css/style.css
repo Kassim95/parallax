@@ -1,0 +1,43 @@
+
+body{
+	font-family: cursive;
+}
+h1{
+	text-align: center;
+	font-size: 575%;
+	color: grey;
+	text-transform: uppercase;
+	letter-spacing: 3;
+	margin: 10% 0;
+	opacity: 0.8;
+
+}
+.pix{
+	margin-top: 0;
+	position: fixed;
+
+}
+h2{
+	text-align: center;
+	font-size: 275%;
+	color: grey;
+	text-transform: uppercase;
+	letter-spacing: 3;
+	font-size: 20px;
+	width: 600px;
+	margin-left: 600px;
+}
+
+.parallax{
+	background: url("https://wallpaperscraft.com/image/eiffel_tower_paris_france_night_hdr_85518_1600x1200.jpg") repeat fixed 100%;
+}
+
+.parallax-inner{
+	padding-top:10%;
+	padding-bottom:10%;
+}
+
+.parallax2{
+	background: url("https://wallpaperscraft.com/image/eiffel_tower_paris_france_night_hdr_85518_1600x1200.jpg")  fixed 100%;
+	background-position: 100% 739px;
+}
